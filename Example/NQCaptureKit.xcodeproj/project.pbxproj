@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		4AF9FDE945C4ABE2D1959D89 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		5AD131D569CC12D0EDC7B1C9 /* NQCaptureKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NQCaptureKit.podspec; path = ../NQCaptureKit.podspec; sourceTree = "<group>"; };
+		5AD131D569CC12D0EDC7B1C9 /* NQCaptureKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NQCaptureKit.podspec; path = ../NQCaptureKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5E9F385B5DC90F3F95A65B04 /* Pods_NQCaptureKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NQCaptureKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* NQCaptureKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NQCaptureKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
