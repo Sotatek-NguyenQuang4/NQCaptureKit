@@ -1,0 +1,22 @@
+{
+  "name": "NQCaptureKit",
+  "version": "0.1.0",
+  "summary": "A short description of NQCaptureKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/quang.nguyen/NQCaptureKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "quang.nguyen": "quang.nguyen4@sotatek.com"
+  },
+  "source": {
+    "git": "https://github.com/quang.nguyen/NQCaptureKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NQCaptureKit/Classes/**/*"
+}

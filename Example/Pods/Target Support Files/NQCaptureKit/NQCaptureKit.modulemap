@@ -1,0 +1,6 @@
+framework module NQCaptureKit {
+  umbrella header "NQCaptureKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
