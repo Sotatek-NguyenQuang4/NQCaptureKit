@@ -33,38 +33,6 @@
 		C390C6005353FB986CB52F474CEF8588 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */; };
 		C9F76407497DF0205D7460B36D22259F /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3280BB5E7B57C31D41117A74F76E9DF3 /* QuartzCore.framework */; };
 		CA54C09A12400567AFFCB407EEB7E154 /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */; };
-		D68E6858289C30B2003250A6 /* SnapshotKitProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6857289C30B1003250A6 /* SnapshotKitProtocol.swift */; };
-		D68E6859289C30B2003250A6 /* SnapshotKitProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6857289C30B1003250A6 /* SnapshotKitProtocol.swift */; };
-		D68E685A289C30B2003250A6 /* SnapshotKitProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6857289C30B1003250A6 /* SnapshotKitProtocol.swift */; };
-		D68E685B289C30B2003250A6 /* SnapshotKitProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6857289C30B1003250A6 /* SnapshotKitProtocol.swift */; };
-		D68E685D289C30BF003250A6 /* UICollectionView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E685C289C30BF003250A6 /* UICollectionView+Snapshot.swift */; };
-		D68E685E289C30BF003250A6 /* UICollectionView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E685C289C30BF003250A6 /* UICollectionView+Snapshot.swift */; };
-		D68E685F289C30BF003250A6 /* UICollectionView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E685C289C30BF003250A6 /* UICollectionView+Snapshot.swift */; };
-		D68E6860289C30BF003250A6 /* UICollectionView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E685C289C30BF003250A6 /* UICollectionView+Snapshot.swift */; };
-		D68E6867289C30CC003250A6 /* WebViewPrintPageRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6861289C30CB003250A6 /* WebViewPrintPageRenderer.swift */; };
-		D68E6868289C30CC003250A6 /* WebViewPrintPageRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6861289C30CB003250A6 /* WebViewPrintPageRenderer.swift */; };
-		D68E6869289C30CC003250A6 /* WebViewPrintPageRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6861289C30CB003250A6 /* WebViewPrintPageRenderer.swift */; };
-		D68E686A289C30CC003250A6 /* WebViewPrintPageRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6861289C30CB003250A6 /* WebViewPrintPageRenderer.swift */; };
-		D68E686B289C30CC003250A6 /* WKWebView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6862289C30CB003250A6 /* WKWebView+Snapshot.swift */; };
-		D68E686C289C30CC003250A6 /* WKWebView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6862289C30CB003250A6 /* WKWebView+Snapshot.swift */; };
-		D68E686D289C30CC003250A6 /* WKWebView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6862289C30CB003250A6 /* WKWebView+Snapshot.swift */; };
-		D68E686E289C30CC003250A6 /* WKWebView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6862289C30CB003250A6 /* WKWebView+Snapshot.swift */; };
-		D68E686F289C30CC003250A6 /* UITableView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6863289C30CB003250A6 /* UITableView+Snapshot.swift */; };
-		D68E6870289C30CC003250A6 /* UITableView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6863289C30CB003250A6 /* UITableView+Snapshot.swift */; };
-		D68E6871289C30CC003250A6 /* UITableView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6863289C30CB003250A6 /* UITableView+Snapshot.swift */; };
-		D68E6872289C30CC003250A6 /* UITableView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6863289C30CB003250A6 /* UITableView+Snapshot.swift */; };
-		D68E6873289C30CC003250A6 /* UIView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6864289C30CB003250A6 /* UIView+Snapshot.swift */; };
-		D68E6874289C30CC003250A6 /* UIView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6864289C30CB003250A6 /* UIView+Snapshot.swift */; };
-		D68E6875289C30CC003250A6 /* UIView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6864289C30CB003250A6 /* UIView+Snapshot.swift */; };
-		D68E6876289C30CC003250A6 /* UIView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6864289C30CB003250A6 /* UIView+Snapshot.swift */; };
-		D68E6877289C30CC003250A6 /* UIScrollView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6865289C30CB003250A6 /* UIScrollView+Snapshot.swift */; };
-		D68E6878289C30CC003250A6 /* UIScrollView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6865289C30CB003250A6 /* UIScrollView+Snapshot.swift */; };
-		D68E6879289C30CC003250A6 /* UIScrollView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6865289C30CB003250A6 /* UIScrollView+Snapshot.swift */; };
-		D68E687A289C30CC003250A6 /* UIScrollView+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6865289C30CB003250A6 /* UIScrollView+Snapshot.swift */; };
-		D68E687B289C30CC003250A6 /* UIWindow+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6866289C30CC003250A6 /* UIWindow+Snapshot.swift */; };
-		D68E687C289C30CC003250A6 /* UIWindow+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6866289C30CC003250A6 /* UIWindow+Snapshot.swift */; };
-		D68E687D289C30CC003250A6 /* UIWindow+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6866289C30CC003250A6 /* UIWindow+Snapshot.swift */; };
-		D68E687E289C30CC003250A6 /* UIWindow+Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68E6866289C30CC003250A6 /* UIWindow+Snapshot.swift */; };
 		E33563602F9B0217A6BD9BCC13D81D9C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
 		EEF50C8A0851437A25AC5580FD3CF085 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
 		F1550054FDEDBD2B333F727B22E02A5E /* NQCaptureKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FC35104500009BB0A96C56EB228A52A /* NQCaptureKit-dummy.m */; };
@@ -147,14 +115,6 @@
 		C7EB791BAAEE42C98CE37F5B59EBF17F /* NQCaptureKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NQCaptureKit-prefix.pch"; sourceTree = "<group>"; };
 		CBFF6C5FD9C3A84274A9314D3E940B6E /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
 		D08CEBB9BDD9EF7A662ECFC0305C169E /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
-		D68E6857289C30B1003250A6 /* SnapshotKitProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnapshotKitProtocol.swift; sourceTree = "<group>"; };
-		D68E685C289C30BF003250A6 /* UICollectionView+Snapshot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICollectionView+Snapshot.swift"; sourceTree = "<group>"; };
-		D68E6861289C30CB003250A6 /* WebViewPrintPageRenderer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewPrintPageRenderer.swift; sourceTree = "<group>"; };
-		D68E6862289C30CB003250A6 /* WKWebView+Snapshot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "WKWebView+Snapshot.swift"; sourceTree = "<group>"; };
-		D68E6863289C30CB003250A6 /* UITableView+Snapshot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITableView+Snapshot.swift"; sourceTree = "<group>"; };
-		D68E6864289C30CB003250A6 /* UIView+Snapshot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Snapshot.swift"; sourceTree = "<group>"; };
-		D68E6865289C30CB003250A6 /* UIScrollView+Snapshot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIScrollView+Snapshot.swift"; sourceTree = "<group>"; };
-		D68E6866289C30CC003250A6 /* UIWindow+Snapshot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIWindow+Snapshot.swift"; sourceTree = "<group>"; };
 		D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		DCBDA5F88801F290F8AD26B132022694 /* NQCaptureKit */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = NQCaptureKit; path = NQCaptureKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD1F0971FC220518B278EEA341AFD314 /* Pods_NQCaptureKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NQCaptureKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -209,14 +169,6 @@
 		02667757CD944E2510FA307FC8744ECF /* NQCaptureKit */ = {
 			isa = PBXGroup;
 			children = (
-				D68E6865289C30CB003250A6 /* UIScrollView+Snapshot.swift */,
-				D68E6863289C30CB003250A6 /* UITableView+Snapshot.swift */,
-				D68E6864289C30CB003250A6 /* UIView+Snapshot.swift */,
-				D68E6866289C30CC003250A6 /* UIWindow+Snapshot.swift */,
-				D68E6861289C30CB003250A6 /* WebViewPrintPageRenderer.swift */,
-				D68E6862289C30CB003250A6 /* WKWebView+Snapshot.swift */,
-				D68E685C289C30BF003250A6 /* UICollectionView+Snapshot.swift */,
-				D68E6857289C30B1003250A6 /* SnapshotKitProtocol.swift */,
 				6B828E67B7C535918DA186E79E974F25 /* ReplaceMe.swift */,
 				7B6249D79C60F2237597A6042BA8B404 /* Pod */,
 				A766E94680D34B1567C766274907DCDC /* Support Files */,
@@ -599,15 +551,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D68E6878289C30CC003250A6 /* UIScrollView+Snapshot.swift in Sources */,
-				D68E687C289C30CC003250A6 /* UIWindow+Snapshot.swift in Sources */,
 				F1550054FDEDBD2B333F727B22E02A5E /* NQCaptureKit-dummy.m in Sources */,
-				D68E6868289C30CC003250A6 /* WebViewPrintPageRenderer.swift in Sources */,
-				D68E6859289C30B2003250A6 /* SnapshotKitProtocol.swift in Sources */,
-				D68E686C289C30CC003250A6 /* WKWebView+Snapshot.swift in Sources */,
-				D68E6874289C30CC003250A6 /* UIView+Snapshot.swift in Sources */,
-				D68E685E289C30BF003250A6 /* UICollectionView+Snapshot.swift in Sources */,
-				D68E6870289C30CC003250A6 /* UITableView+Snapshot.swift in Sources */,
 				05F02A2F49EFD75E20EB01F7040F3654 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -616,15 +560,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D68E685F289C30BF003250A6 /* UICollectionView+Snapshot.swift in Sources */,
-				D68E6879289C30CC003250A6 /* UIScrollView+Snapshot.swift in Sources */,
-				D68E6871289C30CC003250A6 /* UITableView+Snapshot.swift in Sources */,
-				D68E686D289C30CC003250A6 /* WKWebView+Snapshot.swift in Sources */,
-				D68E685A289C30B2003250A6 /* SnapshotKitProtocol.swift in Sources */,
 				029588B01BA18D9A702E32A1565BC893 /* Pods-NQCaptureKit_Example-dummy.m in Sources */,
-				D68E687D289C30CC003250A6 /* UIWindow+Snapshot.swift in Sources */,
-				D68E6869289C30CC003250A6 /* WebViewPrintPageRenderer.swift in Sources */,
-				D68E6875289C30CC003250A6 /* UIView+Snapshot.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -632,15 +568,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D68E6860289C30BF003250A6 /* UICollectionView+Snapshot.swift in Sources */,
-				D68E687A289C30CC003250A6 /* UIScrollView+Snapshot.swift in Sources */,
-				D68E6872289C30CC003250A6 /* UITableView+Snapshot.swift in Sources */,
-				D68E686E289C30CC003250A6 /* WKWebView+Snapshot.swift in Sources */,
-				D68E685B289C30B2003250A6 /* SnapshotKitProtocol.swift in Sources */,
 				5C32528A8659B4D11AD69C891E50AD25 /* Pods-NQCaptureKit_Tests-dummy.m in Sources */,
-				D68E687E289C30CC003250A6 /* UIWindow+Snapshot.swift in Sources */,
-				D68E686A289C30CC003250A6 /* WebViewPrintPageRenderer.swift in Sources */,
-				D68E6876289C30CC003250A6 /* UIView+Snapshot.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -648,19 +576,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D68E687B289C30CC003250A6 /* UIWindow+Snapshot.swift in Sources */,
 				7C67CBD15D9B5D0B7769B2F469478332 /* FBSnapshotTestCase.m in Sources */,
 				5BE525FF6FA14B999ED2CCC0AA4FA0CF /* FBSnapshotTestCase-dummy.m in Sources */,
-				D68E6858289C30B2003250A6 /* SnapshotKitProtocol.swift in Sources */,
 				30D475DF57C0C682A723231E7BCA0D14 /* FBSnapshotTestCasePlatform.m in Sources */,
 				C390C6005353FB986CB52F474CEF8588 /* FBSnapshotTestController.m in Sources */,
-				D68E686F289C30CC003250A6 /* UITableView+Snapshot.swift in Sources */,
-				D68E685D289C30BF003250A6 /* UICollectionView+Snapshot.swift in Sources */,
 				2975A09730FD83DC0897129A11EA6585 /* SwiftSupport.swift in Sources */,
-				D68E6873289C30CC003250A6 /* UIView+Snapshot.swift in Sources */,
-				D68E6877289C30CC003250A6 /* UIScrollView+Snapshot.swift in Sources */,
-				D68E6867289C30CC003250A6 /* WebViewPrintPageRenderer.swift in Sources */,
-				D68E686B289C30CC003250A6 /* WKWebView+Snapshot.swift in Sources */,
 				74339C58AC4E5631FB8C0E662668A796 /* UIApplication+StrictKeyWindow.m in Sources */,
 				B52281F9F4340D4FC8ABB2FEB1FEC08E /* UIImage+Compare.m in Sources */,
 				CA54C09A12400567AFFCB407EEB7E154 /* UIImage+Diff.m in Sources */,
