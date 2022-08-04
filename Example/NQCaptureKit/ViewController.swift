@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import NQCaptureKit
 
 class ViewController: UIViewController {
 
